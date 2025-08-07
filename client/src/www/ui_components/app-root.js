@@ -593,7 +593,7 @@ export class AppRoot extends mixinBehaviors(
       },
       showAppearanceView: {
         type: Boolean,
-        value: false,
+        value: true,
       },
       selectedAppearance: {
         type: String,
